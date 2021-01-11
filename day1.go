@@ -8,4 +8,5 @@ func main() {
 	for i := 0; i < 10; i++ {
 		fmt.Println("Hello World")
 	}
+	fmt.Println("Adding college name:HITS")
 }
